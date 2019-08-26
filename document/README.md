@@ -18,7 +18,7 @@ https://docs.google.com/presentation/d/1_99B6DGERTQzyOjqogYwhBUQw3dScjhRibxJuMuq
 
 https://docs.google.com/presentation/d/1_99B6DGERTQzyOjqogYwhBUQw3dScjhRibxJuMuqEmM/edit#slide=id.p2
 
-五.[表设计](https://github.com/HexaemeronFsk/PropertySystem/blob/master/document/%E8%A1%A8%E8%AE%BE%E8%AE%A1.xlsx)
+五.[表设计.xlsx](https://github.com/HexaemeronFsk/PropertySystem/blob/master/document/%E8%A1%A8%E8%AE%BE%E8%AE%A1.xlsx)
 
 https://docs.google.com/spreadsheets/d/1xq6AGBFIlIwz347r48ZP0v--dpMlkzJUsuJuoMZaWGc/edit#gid=793300582
 
