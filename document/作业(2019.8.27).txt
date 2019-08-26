@@ -1,3 +1,5 @@
 1.调研MySQL如何将表存在内存里。测试20w 50w 100w数据查找的时间代价，cpu代价。
+
 2.复习MySQL :select ,join ,left join
+
 3.补测试数据
