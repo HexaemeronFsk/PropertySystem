@@ -1,5 +1,7 @@
 # PropertySystem
 
+点击中文链接查看文本或者下载ppt，xlsx。点击url链接可在网页直接查看ppt,xlsx,但是需要翻墙
+
 ## 一.2019.8.27
 
 一.[作业](https://github.com/HexaemeronFsk/PropertySystem/blob/master/document/%E4%BD%9C%E4%B8%9A(2019.8.27).txt)
