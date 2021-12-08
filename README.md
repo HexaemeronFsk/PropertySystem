@@ -6,4 +6,6 @@ Test Close
 
 Test AutoClose
 
-Test AutClose 2
+Test AutoClose 2
+
+Test autoClose 3
